@@ -1,3 +1,9 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
 # OS files
 .DS_Store
 Thumbs.db
@@ -13,3 +19,8 @@ Thumbs.db
 *.swo
 *~
 .vscode/
+
+# Environment
+.env
+.env.local
+.env.*.local
